@@ -35,6 +35,8 @@ The following **bonus** features are implemented:
 The following **additional** features are implemented:
 
 * [x] Uses Android Preferences for app settings
+* [x] Placeholder and error image for Picasso image loading
+* [x] Timeout for HTTP requests
 
 ## Video Walkthrough 
 
