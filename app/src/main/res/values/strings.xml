@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Grid Image Search</string>
+
+    <string name="title_activity_view_image">View Image</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="promt_no_network">Network unavailable</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_safe_search">Enable safe search</string>
+    <string name="pref_description_safe_search">Limit results to those that are considered \'safe\'</string>
+
+    <string name="pref_title_site">Search site</string>
+
+    <string name="pref_title_image_size">Image size</string>
+    <string-array name="pref_list_size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+    <string-array name="pref_list_size_values">
+        <item>small</item>
+        <item>medium</item>
+        <item>large</item>
+        <item>xlarge</item>
+    </string-array>
+
+    <string name="pref_title_image_type">Image type</string>
+    <string-array name="pref_list_type">
+        <item>All images</item>
+        <item>Face</item>
+        <item>Photo</item>
+        <item>Clipart</item>
+        <item>Line art</item>
+    </string-array>
+    <string-array name="pref_list_type_values">
+        <item>all</item>
+        <item>face</item>
+        <item>photo</item>
+        <item>clipart</item>
+        <item>lineart</item>
+    </string-array>
+
+    <string name="pref_title_image_color">Color filter</string>
+    <string-array name="pref_list_color">
+        <item>No filter</item>
+        <item>Black</item>
+        <item>Blue</item>
+        <item>Brown</item>
+        <item>Gray</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Pink</item>
+        <item>Purple</item>
+        <item>Red</item>
+        <item>Teal</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="pref_list_color_values">
+        <item>none</item>
+        <item>black</item>
+        <item>blue</item>
+        <item>brown</item>
+        <item>gray</item>
+        <item>green</item>
+        <item>orange</item>
+        <item>pink</item>
+        <item>purple</item>
+        <item>red</item>
+        <item>teal</item>
+        <item>white</item>
+        <item>yellow</item>
+    </string-array>
+</resources>
